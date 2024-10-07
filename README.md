@@ -3,27 +3,29 @@
 Introduction
 This repository contains the code and instructions for building a gesture-controlled robotic arm. The project utilizes computer vision techniques to track hand movements and translate them into instructions for the robotic arm.
 
-This is a gesture-controlled robotic arm.
+This is a gesture-controlled robotic arm.  
 
-![Robotic arm](https://github.com/ad5454/Gesture_controlled_Robotic_Arm/blob/main/Screenshot%202024-09-26%20140420.png)
-![Robotic arm]([images/robotic_arm.jpg](https://github.com/ad5454/Gesture_controlled_Robotic_Arm/blob/main/Screenshot%202024-09-26%20140438.png))
-![Robotic arm]([images/robotic_arm.jpg](https://github.com/ad5454/Gesture_controlled_Robotic_Arm/blob/main/Screenshot%202024-09-26%20140405.png))
-
-The arm uses computer vision to track hand movements and replicate them.
-
-![Hand tracking](i[mages/hand_tracking.png](https://github.com/ad5454/Gesture_controlled_Robotic_Arm/blob/main/g.jpg))
+![Gripper](https://github.com/ad5454/Gesture_controlled_Robotic_Arm/blob/main/Screenshot%202024-09-26%20140420.png)
+![Base](https://github.com/ad5454/Gesture_controlled_Robotic_Arm/blob/main/Screenshot%202024-09-26%20140438.png)
+![Arm](https://github.com/ad5454/Gesture_controlled_Robotic_Arm/blob/main/Screenshot%202024-09-26%20140405.png)  
 
 
-Hardware Requirements
-Robotic arm with 5 servo motors and 1 stepper motor
-Webcam
-Software Requirements
-Python 3.7.x (compatible with versions less than 3.8)
-Arduino IDE
-OpenCV
-MediaPipe
-SerialDevice
-cvzone
+The arm uses computer vision to track hand movements and replicate them.  
+
+![Hand tracking]((https://github.com/ad5454/Gesture_controlled_Robotic_Arm/blob/main/g.jpg))
+
+
+Hardware Requirements  
+Robotic arm with 5 servo motors and 1 stepper motor  
+Webcam  
+
+Software Requirements  
+Python 3.7.x (compatible with versions less than 3.8)  
+Arduino IDE  
+OpenCV  
+MediaPipe  
+SerialDevice  
+cvzone  
 
 Robot Arm: Thingiverse 3D Printed Robotic Arm - credits: Wonder Tiger
 Part 1: Gripper Parts
