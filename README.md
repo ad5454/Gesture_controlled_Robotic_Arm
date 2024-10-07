@@ -6,7 +6,11 @@ This repository contains the code and instructions for building a gesture-contro
 
 The arm uses computer vision to track hand movements and replicate them.  
 
-![Robotic arm]([(https://github.com/ad5454/Gesture_controlled_Robotic_Arm/blob/main/g.jpg)])
+![Grid](https://github.com/ad5454/Gesture_controlled_Robotic_Arm/blob/main/Screenshot%202024-08-20%20113546.png)  
+![Flow Chart](https://github.com/ad5454/Gesture_controlled_Robotic_Arm/blob/main/Screenshot%202024-08-19%20220648.png)  
+![Detection](https://github.com/ad5454/Gesture_controlled_Robotic_Arm/blob/main/g.jpg)  
+
+
 Hardware Requirements  
 Robotic arm with 5 servo motors and 1 stepper motor  
 Webcam  
