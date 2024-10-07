@@ -5,11 +5,13 @@ This repository contains the code and instructions for building a gesture-contro
 
 This is a gesture-controlled robotic arm.
 
-![Robotic arm](images/robotic_arm.jpg)
+![Robotic arm](https://github.com/ad5454/Gesture_controlled_Robotic_Arm/blob/main/Screenshot%202024-09-26%20140420.png)
+![Robotic arm]([images/robotic_arm.jpg](https://github.com/ad5454/Gesture_controlled_Robotic_Arm/blob/main/Screenshot%202024-09-26%20140438.png))
+![Robotic arm]([images/robotic_arm.jpg](https://github.com/ad5454/Gesture_controlled_Robotic_Arm/blob/main/Screenshot%202024-09-26%20140405.png))
 
 The arm uses computer vision to track hand movements and replicate them.
 
-![Hand tracking](images/hand_tracking.png)
+![Hand tracking](i[mages/hand_tracking.png](https://github.com/ad5454/Gesture_controlled_Robotic_Arm/blob/main/g.jpg))
 
 
 Hardware Requirements
@@ -23,6 +25,10 @@ MediaPipe
 SerialDevice
 cvzone
 
+Robot Arm: Thingiverse 3D Printed Robotic Arm - credits: Wonder Tiger
+Part 1: Gripper Parts
+Part 2: Base and Turntable
+Part 3: Robotic Core Arm
 
 Installation
 Clone the repository:
