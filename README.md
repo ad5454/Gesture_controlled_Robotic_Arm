@@ -21,10 +21,6 @@ Bash
 git clone https://github.com/your-username/gesture-controlled-robotic-arm
 
 
-Install dependencies:
-Bash
-pip install opencv-python mediapipe serialdevice cvzone
-
 
 Usage
 Connect the robotic arm to your computer using a USB cable.
